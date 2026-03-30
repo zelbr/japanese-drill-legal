@@ -11,7 +11,7 @@
 This Privacy Policy explains how we handle information in connection with the App.
 For users in the EU, EEA, or UK, your consent for personalized advertising is
 obtained separately through our in-app consent flow (powered by Google UMP),
-not by mere use of the App.
+and is not implied by mere use of the App.
 
 ---
 
@@ -47,7 +47,7 @@ We do not sell, rent, or trade your personal information. Information collected 
 - Measuring ad performance and detecting invalid traffic
 - Complying with legal obligations
 
-We also use **Firebase Analytics** (Google LLC) to collect aggregate, anonymized usage data such as app open events, screen views, and crash reports. This data does not identify individual users and is processed in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
+We also use **Firebase Analytics** (Google LLC) to collect aggregate, anonymized usage data such as app open events and screen views. This data does not identify individual users and is processed in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ---
 
@@ -55,7 +55,7 @@ We also use **Firebase Analytics** (Google LLC) to collect aggregate, anonymized
 
 ### 4-1. Google AdMob
 
-The App displays banner ads and optional rewarded video ads via Google AdMob. Rewarded ads are entirely voluntary — you may choose to watch a video ad to earn an in-app XP bonus, but are never required to do so.
+The App displays banner ads and optional rewarded video ads via Google AdMob. Rewarded ads are entirely voluntary — you may choose to watch a video ad to earn an in-app XP bonus, but you are never required to do so.
 
 AdMob may use your Advertising ID to show personalized ads based on your interests. You can opt out of personalized advertising at any time:
 
@@ -116,7 +116,7 @@ Please note that most personal data is processed by Google LLC (AdMob / Firebase
 
 ## 9. Security
 
-All learning data is stored locally on your device and is never transmitted over the internet. The App operates fully offline (except for ad requests via AdMob). We take reasonable technical measures to protect information handled by the App.
+All learning data is stored locally on your device and is never transmitted over the internet. The App operates primarily offline (except for ad requests via AdMob and analytics data via Firebase). We take reasonable technical measures to protect information handled by the App.
 
 ---
 

@@ -14,7 +14,7 @@ By downloading, installing, or using Japanese Drill ("the App"), you agree to be
 
 ## 2. License to Use
 
-zelbr grants you a personal, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes only.
+The developer (zelbr) grants you a personal, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes only.
 
 You may not:
 
@@ -48,7 +48,7 @@ You are encouraged to verify important information through official sources such
 
 ## 5. Changes and Discontinuation
 
-As an independently developed app, zelbr reserves the right to:
+As an independent developer, zelbr reserves the right to:
 
 - Modify, update, or remove features at any time without prior notice
 - Discontinue the App at any time without prior notice
@@ -88,8 +88,7 @@ The App uses open-source software components. A full list of licenses is availab
 
 These Terms are governed by and construed in accordance with the laws of Japan,
 without regard to its conflict of law principles. Any disputes arising under
-these Terms shall be subject to the exclusive jurisdiction of the courts located
-in Japan, to the extent permitted by applicable local law.
+these Terms shall be subject to the jurisdiction of the courts located in Japan, to the extent permitted by applicable local law.
 
 ---
 
