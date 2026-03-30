@@ -2,7 +2,7 @@
 
 **Effective Date:** 2026-03-30
 **Developer:** zelbr
-**Contact:** [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSdaXmg2hgjB5JODT3Bg1S1t8GLcqOAxoYDgD8_qzjrB2dBlIA/viewform)
+**Contact:** [Contact Form](https://forms.gle/nkHLSrHAD55BmnvU6)
 
 ---
 
@@ -131,4 +131,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 If you have any questions or concerns about this Privacy Policy, please contact us via our contact form:
 
 **Developer:** zelbr
-**Contact Form:** [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSdaXmg2hgjB5JODT3Bg1S1t8GLcqOAxoYDgD8_qzjrB2dBlIA/viewform)
+**Contact Form:** [Contact Form](https://forms.gle/nkHLSrHAD55BmnvU6)
