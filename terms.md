@@ -84,13 +84,22 @@ The App uses open-source software components. A full list of licenses is availab
 
 ---
 
-## 9. Changes to These Terms
+## 9. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of Japan,
+without regard to its conflict of law principles. Any disputes arising under
+these Terms shall be subject to the exclusive jurisdiction of the courts located
+in Japan, to the extent permitted by applicable local law.
+
+---
+
+## 10. Changes to These Terms
 
 We may update these Terms from time to time. If we make material changes, we will update the "Effective Date" at the top of this page. Continued use of the App after changes constitutes acceptance of the updated Terms.
 
 ---
 
-## 10. Contact Us
+## 11. Contact Us
 
 If you have any questions about these Terms, please contact us via our contact form:
 

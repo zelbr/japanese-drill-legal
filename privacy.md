@@ -8,7 +8,10 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how Japanese Drill ("the App") collects, uses, and shares information when you use our application. By using the App, you agree to the practices described in this policy.
+This Privacy Policy explains how we handle information in connection with the App.
+For users in the EU, EEA, or UK, your consent for personalized advertising is
+obtained separately through our in-app consent flow (powered by Google UMP),
+not by mere use of the App.
 
 ---
 
@@ -44,7 +47,7 @@ We do not sell, rent, or trade your personal information. Information collected 
 - Measuring ad performance and detecting invalid traffic
 - Complying with legal obligations
 
-We use **Firebase Analytics** (Google LLC) in a limited capacity to understand aggregate App usage. No personally identifiable information is collected through Firebase Analytics.
+We also use **Firebase Analytics** (Google LLC) to collect aggregate, anonymized usage data such as app open events, screen views, and crash reports. This data does not identify individual users and is processed in accordance with [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ---
 
@@ -106,6 +109,8 @@ Depending on your location, you may have the following rights regarding your per
 - **Portability:** Request transfer of your data in a machine-readable format
 
 To exercise these rights, please contact us via the form below.
+
+Please note that most personal data is processed by Google LLC (AdMob / Firebase). For data held by Google, please use [Google's privacy tools](https://myaccount.google.com/data-and-privacy) directly, as we do not have access to or control over that data.
 
 ---
 
