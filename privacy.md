@@ -1,6 +1,6 @@
 # Privacy Policy — Japanese Drill
 
-**Effective Date:** 2026-03-29
+**Effective Date:** 2026-03-30
 **Developer:** zelbr
 **Contact:** [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSdaXmg2hgjB5JODT3Bg1S1t8GLcqOAxoYDgD8_qzjrB2dBlIA/viewform)
 
